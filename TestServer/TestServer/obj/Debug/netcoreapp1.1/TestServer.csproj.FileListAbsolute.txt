@@ -1,0 +1,9 @@
+C:\Projects\Personal\TestServer\TestServer\bin\Debug\netcoreapp1.1\TestServer.deps.json
+C:\Projects\Personal\TestServer\TestServer\bin\Debug\netcoreapp1.1\TestServer.runtimeconfig.json
+C:\Projects\Personal\TestServer\TestServer\bin\Debug\netcoreapp1.1\TestServer.runtimeconfig.dev.json
+C:\Projects\Personal\TestServer\TestServer\bin\Debug\netcoreapp1.1\TestServer.dll
+C:\Projects\Personal\TestServer\TestServer\bin\Debug\netcoreapp1.1\TestServer.pdb
+C:\Projects\Personal\TestServer\TestServer\obj\Debug\netcoreapp1.1\TestServer.csprojResolveAssemblyReference.cache
+C:\Projects\Personal\TestServer\TestServer\obj\Debug\netcoreapp1.1\TestServer.AssemblyInfo.cs
+C:\Projects\Personal\TestServer\TestServer\obj\Debug\netcoreapp1.1\TestServer.dll
+C:\Projects\Personal\TestServer\TestServer\obj\Debug\netcoreapp1.1\TestServer.pdb
